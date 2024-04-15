@@ -11,6 +11,7 @@
   <ItemGroup>
     <PackageReference Include="Xbim.Essentials" Version="5.1.274" />
     <PackageReference Include="Xbim.Geometry" Version="5.1.283" />
+    <PackageReference Include="Xbim.WindowsUI" Version="5.1.169" />
   </ItemGroup>
 
 </Project>
