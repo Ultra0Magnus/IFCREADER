@@ -25,11 +25,12 @@ namespace IFCREADER
         {
             //MessageBox.Show("le gmp n'existe plus");
             Txtbox.AppendText("Le gmp n'existe plus" + "\n");
+            Txtbox.AppendText("issou");
         }
 
         private void RichTextBox_TextChanged(object sender, TextChangedEventArgs e)
         {
-
+            
         }
 
     }
